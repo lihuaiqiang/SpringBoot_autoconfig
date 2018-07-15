@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * 注解  （github 测试原项目）
+ *
+ * clone 下来之后的代码看能否push上去
  */
 @SpringBootApplication
 public class SpringBoot02ConfigAutoconfigApplication {
